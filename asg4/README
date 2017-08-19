@@ -1,0 +1,7 @@
+To Download the Model's meta data. 
+
+Type in Terminal:
+python retrieve.py
+
+
+This will take time as the data uploaded on dropbox is somewhat big in size.
